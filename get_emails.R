@@ -1,5 +1,5 @@
 # SUMMARY
-# I've strucutured the code into 2 functions. The first (get_names) loops through the 200+ pages
+# the code contains 2 functions. The first (get_names) loops through the 200+ pages
 # of search results and returns a data frame with the following information:
 # name:         Each person's name with any alternate names removed.
 # url:          The URL for each person's secondary page of information.
