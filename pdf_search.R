@@ -136,7 +136,7 @@ Create_DF <- function(pdf_files, keywords, results){
 #***RUN THE Functions***===================================================================
 
 ## Define Variables (PDF and Keywords)
-#directory <- "S:/RE/Melinda/RE_GIS/PDF_extract"
+#directory <- "S:/RE/"
 pdf_files <- Get_PDF_File_Names(directory)
 keywords <- c("Allen", "encroachment")
 
