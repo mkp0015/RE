@@ -11,9 +11,9 @@
 # the results of the second function (TRUE) for PDFS that do contain the matching keywords. 
 #
 # INSTRUCTIONS
-# 1) Install the "tesseract" and "pdftools" packages
-# 2) Change directory/keywords under "Run the Functions" Section
-# 3) Click "Source" in the upper right hand corner of this window
+# 1) Install the "tesseract," "tcltk," and "pdftools" packages
+# 2) Change the keywords under "Run the Functions Section"
+# 2) Click "Source" in the upper right hand corner of this window
 #
 #=========================================================================================
 
